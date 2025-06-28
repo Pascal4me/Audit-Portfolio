@@ -28,7 +28,7 @@ I can be contacted via
 | Jul '24      | ArkProject:NFT Bridge(cairo)| CodeHawks    | 1 Medium                      |     -       |
 | Jul '24      | TraitForge                  | Code4rena    | 2 Highs                       |     -       |
 | Jul '24      | MagicSea (IotaEVM DEX)      | Sherlock     | 1 Medium                      |     -       |
-| May '24      | safe-extensions             | Cantina      | 1 Medium                      | $87         |
+| May '24      | Optimism safe-extensions    | Cantina      | 1 Medium                      | $87         |
 | Oct '23      | Ethena Labs                 | Code4rena    | 1 Low                         |     -       |
 
 Close to 30 H/Ms; 1x top 3; 3x top 10; 6x top 25
