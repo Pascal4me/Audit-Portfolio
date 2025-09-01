@@ -13,6 +13,8 @@ I can be contacted via
 
 | Date         | Contest                     | Platform     |  Findings                     | 💰 Payout / Ranking   |
 |--------------|-----------------------------|--------------|-------------------------------|-------------|
+| June '25     | Symbiotic Relay             | Sherlock     | 1 Medium                      | 10th        |
+| May '25      | Alchemix V3                 | Cantina      | 4 Highs                       | $45         |
 | Apr '25      | Mighty finance              | Cantina      | 1 High                        |  -          |
 | Feb '25      | SEDA Protocol               | Sherlock     | 1 High  1 Medium              | $36         |
 | Feb '25      | Rova                        | Sherlock     | 1 Medium                      | 3rd         |
@@ -31,7 +33,7 @@ I can be contacted via
 | May '24      | Optimism safe-extensions    | Cantina      | 1 Medium                      | $87         |
 | Oct '23      | Ethena Labs                 | Code4rena    | 1 Low                         |     -       |
 
-Close to 30 H/Ms; 1x top 3; 3x top 10; 6x top 25
+Over 30 H/Ms; 1x top 3; 4x top 10; 7x top 25
 
 can be verified [here] (https://audits.sherlock.xyz/watson/PASCAL)
 
@@ -40,7 +42,7 @@ With Pashov audit group during intership program
 |     Date     |       Protocol      | Link |
 |--------------|---------------------|------|
 | April '25    | Space and Time (SXT)| [Link](https://cantina.xyz/code/3cc30b66-1cba-4044-968f-a0817cd7bf83/audits/SXT-security-review_2025-03-31.pdf)
-| May '25      | Looped Vaults       | TBA
+| May '25      | Looped Vaults       | [Link](https://github.com/pashov/audits/blob/master/team/pdf/LoopVaults-security-review_2025-04-30.pdf)
 
 
 
