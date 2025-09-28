@@ -17,7 +17,7 @@ I can be contacted via
 | May '25      | Alchemix V3                 | Cantina      | 4 Highs                       | $45         |
 | Apr '25      | Mighty finance              | Cantina      | 1 High                        |  -          |
 | Feb '25      | SEDA Protocol               | Sherlock     | 1 High  1 Medium              | $36         |
-| Feb '25      | Rova                        | Sherlock     | 1 Medium                      | 3rd         |
+| Feb '25      | Rova(Move)                  | Sherlock     | 1 Medium                      | 3rd         |
 | Jan '25      | Aave v3.3                   | Sherlock     | No bugs found in contest      | $308        |
 | Oct '24      | mev-commit                  | Cantina      | 3 Highs, 1 medium             | 11th        |
 | Sep '24      | Starknet Staking (Cairo)    | CodeHawks    | 1 High                        | $500        |
