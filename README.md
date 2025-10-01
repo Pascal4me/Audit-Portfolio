@@ -35,9 +35,9 @@ I can be contacted via
 
 Over 30 H/Ms; 1x top 3; 4x top 10; 7x top 25
 
-can be verified on sherlock website here [here](https://audits.sherlock.xyz/watson/PASCAL)
+can be verified on sherlock website [here](https://audits.sherlock.xyz/watson/PASCAL)
 
-With Pashov audit group during intership program
+With Pashov audit group 
 
 |     Date     |       Protocol      | Link |
 |--------------|---------------------|------|
