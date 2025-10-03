@@ -37,7 +37,7 @@ I can be contacted via
 | May '24      | Optimism safe-extensions    | Cantina      | 1 Medium                      | $87         |
 | Oct '23      | Ethena Labs                 | Code4rena    | 1 Low                         |     -       |
 
-Over 30 H/Ms; 1x top 3; 4x top 10; 7x top 25
+Over 30 H/Ms; 1x top 3; 4x top 10; 7x top 25 ; with more unfinalized contests incoming 
 
 can be verified on sherlock website [here](https://audits.sherlock.xyz/watson/PASCAL)
 
