@@ -1,7 +1,11 @@
 # Audit-Portfolio
 # My humble contributions 
 
-I can be contacted via 
+Web3 Security Researcher with multiple strong finishes in audit contests across complex systems and
+languages, demonstrating expertise in Solidity, Vyper, and Cairo, as well as private audit experience with the
+Pashov Group. Skilled in both independent and collaborative environments.
+
+I can be contacted via
 
 **. X(twitter)** - @heispascal
 
