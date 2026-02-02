@@ -17,24 +17,26 @@ I can be contacted via
 
 | Date         | Contest                     | Platform     |  Findings                     | 💰 Payout / Ranking   |
 |--------------|-----------------------------|--------------|-------------------------------|-------------|
-| June '25     | Symbiotic Relay             | Sherlock     | 1 Medium                      | 10th        |
-| May '25      | Alchemix V3                 | Cantina      | 4 Highs                       | $45         |
+| Sep  '25     | Super DCA                   | Sherlock     | 1 Medium                      |  30$ - #38  |
+| Sep  '25     | Rezerve Money               | Sherlock     | Private                       | -           |
+| June '25     | Symbiotic Relay             | Sherlock     | 1 Medium                      | $400 - #10th|
+| May '25      | Alchemix V3                 | Cantina      | 4 Highs                       | $45 -       |
 | Apr '25      | Mighty finance              | Cantina      | 1 High                        |  -          |
 | Feb '25      | SEDA Protocol               | Sherlock     | 1 High  1 Medium              | $36         |
 | Feb '25      | Rova(Move)                  | Sherlock     | 1 Medium                      | 3rd         |
 | Jan '25      | Aave v3.3                   | Sherlock     | No bugs found in contest      | $308        |
-| Oct '24      | mev-commit                  | Cantina      | 3 Highs, 1 medium             | 11th        |
-| Sep '24      | Starknet Staking (Cairo)    | CodeHawks    | 1 High                        | $500        |
-| Sep '24      | MorphL2                     | Sherlock     | 3 Medium                      | 8th         |
-| Aug '24      | Velar Artha PerpDEX (Vyper) | Sherlock     | 1 Medium                      | 6th         |
+| Oct '24      | mev-commit                  | Cantina      | 3 Highs, 1 medium             |$1,763 - 11th|
+| Sep '24      | Starknet Staking (Cairo)    | CodeHawks    | 1 High                        | $500 - #27  |
+| Sep '24      | MorphL2                     | Sherlock     | 3 Medium                      | $3314 - #8th|
+| Aug '24      | Velar Artha PerpDEX (Vyper) | Sherlock     | 1 Medium                      |$873 - #6th  |
 | Aug '24      | Chakra (Cairo)              | Code4rena    | 1 High                        |    -        |
 | Aug '24      | Fjord Token Staking         | CodeHawks    | 1 Medium                      | 20th        |
 | Aug '24      | zetachain-protocol          | Cantina      | 1 Medium                      | $30         |
-| Aug '24      | Tadle                       | CodeHawks    | 6 Highs 1 Low                 | $222        |
+| Aug '24      | Tadle                       | CodeHawks    | 6 Highs 1 Low                 | $222 - #26th|
 | Jul '24      | ArkProject:NFT Bridge(cairo)| CodeHawks    | 1 Medium                      |     -       |
 | Jul '24      | TraitForge                  | Code4rena    | 2 Highs                       |     -       |
 | Jul '24      | MagicSea (IotaEVM DEX)      | Sherlock     | 1 Medium                      |     -       |
-| May '24      | Optimism safe-extensions    | Cantina      | 1 Medium                      | $87         |
+| May '24      | Optimism safe-extensions    | Cantina      | 1 Medium                      | $87 - #26th |
 | Oct '23      | Ethena Labs                 | Code4rena    | 1 Low                         |     -       |
 
 Over 30 H/Ms; 1x top 3; 4x top 10; 7x top 25 ; with more unfinalized contests incoming 
